@@ -1,6 +1,8 @@
 # sbpp-1.6.4 fork 
 # Multiple roles on different servers
 
+This is a fork of https://github.com/sbpp/sourcebans-pp/releases/tag/1.6.4
+
 # How to setup
 
 1. Upload sbans.sql to your database
